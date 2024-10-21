@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nagaraj Loni</h1>
 <h3 align="center">I'm passionate about AI & Software engineering, MERN Stack & Full Stack development, UI/UX, Graphics designer, and Networking. Pursuing B.E |CSE||3rd Year|.</h3>
-<!-- <img align="right" alt="coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fneetable.com%2Fhire-mern-stack-developers&psig=AOvVaw1mYcJ241jBNIPjlK4V8dyV&ust=1729553778780000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCar8SQnokDFQAAAAAdAAAAABAl"> -->
+<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2YOgTpa0ceT8RQzdVJPCQc4GwF7_6cT-AfM6bRwaD3aHbF7HTFzyan-aEshuCAaGW4h0&usqp=CAU">
 - 🌱 I’m currently learning **AI, Networking**
 
 - 💬 Ask me about **Full Stack Development**
