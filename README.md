@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsgowebjavaprog&label=Profile%20views&color=0e75b6&style=flat" alt="nsgowebjavaprog" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsgowebjavaprog" alt="nsgowebjavaprog" /></a> </p>
-<img align="right" alt="coding" width="500" height="500 src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">
+<img align="right" alt="coding" width="400" src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">
 - 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **AI, Networking**
