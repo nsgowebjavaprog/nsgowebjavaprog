@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nagarajloni209@gmail.com**
 
-<img align="right" alt="coding" width="300" src=" https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1887574231.1729382400&semt=ais_hybrid">
+<img align="right" alt="coding" width="300" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fvnaya.com%2Fblog%2F7-Mistakes-to-Avoid-When-Teaching-Your-Kid-Coding&psig=AOvVaw2Rq5QVyduoqyXEX9DrQ5Qf&ust=1729986721628000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiJ1qjdqokDFQAAAAAdAAAAABAE">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
