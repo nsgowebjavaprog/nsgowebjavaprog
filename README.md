@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nagarajloni209@gmail.com**
 
-<img align="right" alt="coding" width="300" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fvnaya.com%2Fblog%2F7-Mistakes-to-Avoid-When-Teaching-Your-Kid-Coding&psig=AOvVaw2Rq5QVyduoqyXEX9DrQ5Qf&ust=1729986721628000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiJ1qjdqokDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="300" src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
