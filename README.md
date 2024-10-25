@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **nagarajloni209@gmail.com**
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fvnaya.com%2Fblog%2F7-Mistakes-to-Avoid-When-Teaching-Your-Kid-Coding&psig=AOvVaw2Rq5QVyduoqyXEX9DrQ5Qf&ust=1729986721628000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiJ1qjdqokDFQAAAAAdAAAAABAE
+<img align="right" alt="coding" width="300" src=" https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1887574231.1729382400&semt=ais_hybrid">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/nagaraj-loni-85a965308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/nagaraj-loni-85a965308/" height="30" width="40" /></a>
