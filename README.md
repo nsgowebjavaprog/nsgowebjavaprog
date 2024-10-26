@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsgowebjavaprog" alt="nsgowebjavaprog" /></a> </p>
 <img align="right" alt="coding" width="450" border="10" src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **AI & Full Stack Development**
 
 - 🌱 I’m currently learning **AI, Networking**
 
