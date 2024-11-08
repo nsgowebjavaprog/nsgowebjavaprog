@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="450" border="10" src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">
 - 🔭 I’m currently working on **AI & Full Stack Development**
 
-- 🌱 I’m currently learning **AI, Networking**
+- 🌱 I’m currently learning **AI, Networking & Network+**
 
 - 👯 I’m looking to collaborate on **AI Based Project**
 
