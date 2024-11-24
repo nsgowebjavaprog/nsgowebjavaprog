@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nagaraj Loni</h1>
 <h3 align="center">I'm passionate about AI & Software engineering Projects, MERN Stack & Full Stack development, UI/UX designer, and Networking. Pursuing B.E |CSE| |5th sem|.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsgowebjavaprog&label=Profile%20views&color=0e75b6&style=flat" alt="nsgowebjavaprog" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="right" alt="coding" width="450" border="10" src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsgowebjavaprog&label=Profile%20views&color=0e75b6&style=flat" alt="nsgowebjavaprog" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="right" alt="coding" width="450" border="10" src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">>
+
+  
 - 🔭 I’m currently working on **AI & Full Stack Development**
 
 - 🌱 I’m currently learning **AI, Networking & Network+**
