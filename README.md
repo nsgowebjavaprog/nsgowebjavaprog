@@ -1,15 +1,15 @@
 <h1 align="center">Hey 👋, This is Nagaraj Loni</h1> Striver Target 2.0
-<h3 align="center">I'm passionate about AI & Software engineering Projects, MERN Stack & Full Stack development, UI/UX designer, and Networking. Pursuing B.E |CSE| |5th sem|.</h3>
+<h3 align="center">I'm passionate about AI & Software engineering Projects, MERN Stack & Full Stack development, UI/UX designer, and Networking. Pursuing B.E |CSE| |6th sem|.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsgowebjavaprog&label=Profile%20views&color=0e75b6&style=flat" alt="nsgowebjavaprog" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="right" alt="coding" width="450" border="10" src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">
 
   
 - 🔭 I’m currently working on **AI & Full Stack Development**
 
-- 🌱 I’m currently learning **AI, Networking & Network+**
+- 🌱 I’m currently learning **AI, Networking, AWS and B-C**
 
-- 👯 I’m looking to collaborate on **AI Based Project**
+- 👯 I’m looking to collaborate on **AI Based and SaaS Project**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Full Stack, AI, ML, DS and Some More**
 
 - 📫 How to reach me **nagarajloni209@gmail.com /**
 
