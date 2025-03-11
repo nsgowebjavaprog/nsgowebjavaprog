@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, Networking, AWS and B-C.**
 
-- 👯 I’m looking to collaborate on **AI Based and SaaS Project.**
+- 👯 I’m looking to collaborate on **AI Based and SaaS Project**
 
 - 💬 Ask me about **Full Stack, AI, ML, DS and Some More.**
 
