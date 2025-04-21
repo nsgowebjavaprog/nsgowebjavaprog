@@ -1,4 +1,4 @@
-<h1 align="center">Hey,👋 This is Nagaraj Loni</h1> Striver Target 2.0
+<h1 align="center">Hey,👋 This is ನಾಗರಾಜ ಲೋಣಿ </h1> Striver Target 2.0
 <h3 align="center">I'm passionate about ML, MLOps, LLMOps, Flask, NLP, DP, CV, MERN, Full Stack, SQL, AWS, System-Design.Pursuing B.E |CSE| |6th sem|.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsgowebjavaprog&label=Profile%20views&color=0e75b6&style=flat" alt="nsgowebjavaprog" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="right" alt="coding" width="450" border="10" src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">
 
