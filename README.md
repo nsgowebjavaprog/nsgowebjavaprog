@@ -1,42 +1,42 @@
 <h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
 
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1>
 
 <h1 align="center">Hey,👋 This is ನಾಗರಾಜ ಲೋಣಿ </h1> Striver Target 2.0 
 <h3 align="center">I'm passionate about ML, MLOps, LLMOps, Flask, NLP, DP, CV, MERN, Full Stack, SQL, AWS, System-Design.Pursuing B.E |CSE| |6th sem|.</h3>
