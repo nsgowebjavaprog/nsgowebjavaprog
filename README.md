@@ -1,8 +1,7 @@
 <h1> Hey This is NS LONI </h1>
 <h1> Hey This is NS LONI </h1>
 <h1> Hey This is NS LONI </h1>
-<h1> Hey This is NS LONI </h1>
-<h1> Hey This is NS LONI </h1>
+<h1> Hey This is NS LONI </h1
 <h1> Hey This is NS LONI </h1>
 <h1> Hey This is NS LONI </h1>
 <h1> Hey This is NS LONI </h1>
