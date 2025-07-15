@@ -5,7 +5,7 @@
     
 - 🔭 I’m currently working on **AI & Full Stack Development.** 
 
-- 🌱 I’m currently learning **AI, LLNOPs, AWS.**
+- 🌱 I’m currently learning **AI, LLMOPs & MLOPs with AWS.**
 
 - 👯 I’m looking to collaborate on **AI Based and SaaS Project**
 
