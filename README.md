@@ -1,5 +1,5 @@
 <h1 align="center">Hey,👋 This is ನಾಗರಾಜ ಲೋಣಿ / Nagaraj Loni</h1> Striver Target 2.O
-<h3 align="center">I'm passionate about ML, MLOps, LLMOps,RAG, NLP, DP, CV, MERN, Full Stack, SQL, AWS, System-Design.Pursuing B.E |CSE| |7th sem|.</h3>
+<h3 align="center">I'm passionate about Data Science, ML, MLOps, LLMOps,RAG, NLP, DP, Full Stack, SQL, AWS, System-Design.Pursuing B.E |CSE| |7th sem|.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsgowebjavaprog&label=Profile%20views&color=0e75b6&style=flat" alt="nsgowebjavaprog" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="right" alt="coding" width="450" border="10" src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">
 
     
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, RAGOPs & MLOPs with AWS.**
 
-- 👯 I’m looking to collaborate on **AI Based and Full Stack Project**  
+- 👯 I’m looking to collaborate on **AI Based Full Stack Project**  
 
 - 💬 Ask me about **What you want.**
 
