@@ -3,13 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsgowebjavaprog&label=Profile%20views&color=0e75b6&style=flat" alt="nsgowebjavaprog" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img align="right" alt="coding" width="450" border="10" src="https://vnaya.com/assets/Backend/upload/1662635392featur_img.png">
 
     
-- 🔭 I’m currently working on **LLM and RAG & Full Stack Development.**  
+- 🔭 I’m currently working on **LLM and RAG.**  
 
-- 🌱 I’m currently learning **AI, RAGOPs & MLOPs with AWS.**
+- 🌱 I’m currently learning **AI, ML, Data Science & MLOPs with AWS.**
 
-- 👯 I’m looking to collaborate on **AI Based Full Stack Project**  
-
-- 💬 Ask me about **What you want.**
+- 👯 I’m looking to collaborate on **Data Science Automation**  
 
 - 📫 How to reach me **nagarajloni209@gmail.com /**
 
