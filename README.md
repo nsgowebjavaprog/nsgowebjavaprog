@@ -1,3 +1,6 @@
+```
+https://nsgowebjavaprog.github.io/my-portfolio/
+```
 <h1 align="center">Hey,👋 My Name is Nagaraj Loni</h1> Striver Target 2.O
 <h3 align="center">I'm passionate about Data Science, ML, MLOps, LLMOps,RAG, NLP, DP, Full Stack, SQL, AWS, System-Design.Pursuing B.E |CSE| |7th sem|.</h3>
    
