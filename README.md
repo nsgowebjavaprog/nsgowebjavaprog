@@ -2,13 +2,13 @@
 https://nsgowebjavaprog.github.io/my-portfolio/
 ```
 <h1 align="center">Hey,👋 My Name is Nagaraj Loni</h1> Striver Target 2.O
-<h3 align="center">I'm passionate about Data Science, ML, MLOps, LLMOps,RAG, NLP, DP, Full Stack, SQL, AWS, System-Design.Pursuing B.E |CSE| |7th sem|.</h3>
+<h3 align="center">I'm passionate about Data Science, Machine Learning[ML,and Operation,Gen AI,RAG,NLP,Deep Learning, SQL, AWS. B.E |CSE|.</h3>
    
-- 🔭 I’m currently working on **LLM and RAG.**  
+- 🔭 I’m currently working on **Machine Learning Operations and FastAPI**  
 
-- 🌱 I’m currently learning **AI, ML, Data Science & MLOPs with AWS.**
+- 🌱 I’m currently learning **AWS For ML/MLOPs**
 
-- 👯 I’m looking to collaborate on **Data Science Automation**  
+- 👯 I’m looking to collaborate on **Data Science, Machine Learning**  
 
 - 📫 How to reach me **nagarajloni209@gmail.com /**
 
