@@ -1,15 +1,15 @@
 ```
 https://nsgowebjavaprog.github.io/my-portfolio/
 ```
-<h1 align="center">Hey,👋 My Name is Nagaraj Loni</h1> Striver Target 2.O
+Striver Target 2.O
 <h3 align="center">I'm passionate about Data Science, Machine Learning[ML,and Operation,Gen AI,RAG,NLP,Deep Learning, SQL, AWS.
    {BE-CSE}</h3>
    
-- 🔭 I’m currently working on **Machine Learning Operations and FastAPI**  
+- 🔭 I’m currently working on **FDE**  
 
-- 🌱 I’m currently learning **AWS For ML/MLOPs**
+- 🌱 I’m currently learning **AWS For AI/Data Science**
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning**  
+- 👯 I’m looking to collaborate on **FDE**  
 
 - 📫 How to reach me **nagarajloni209@gmail.com /**
 
